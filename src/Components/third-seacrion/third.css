@@ -1,0 +1,24 @@
+.bg-color {
+    background-color: #0B1D26 !important;
+}
+
+.positon-img {
+    margin-top: -20%;
+}
+.number-no-1{
+    position: absolute;
+    top: -50px; 
+    left: -70px;
+  
+    
+}
+.number-no-2{
+    position: absolute;
+    top: -35px; 
+    left: 550px; 
+}
+.number-no-3{
+    position: absolute;
+    top: 25px; 
+    left: -90px; 
+}
